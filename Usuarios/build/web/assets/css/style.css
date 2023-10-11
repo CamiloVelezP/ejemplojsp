@@ -1133,7 +1133,7 @@ header .form-inline {
     background: #d9534f;
     border-radius: 50%;
     color: #fff;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-size: 9px;
     font-weight: 700;
     float: right;
@@ -1438,12 +1438,12 @@ header .form-inline {
       border: none !important; }
   #flotPie1 .legendLabel {
     color: #868e96;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px; }
 
 /* Stats Table */
 .table-stats table {
-  font-family: 'Open Sans'; }
+  font-family: 'Open Sans', sans-serif; }
   .table-stats table th,
   .table-stats table td {
     border: none;
@@ -1471,7 +1471,7 @@ header .form-inline {
 
 /* Timeline */
 .timeline li {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', sans-serif;
   list-style: none;
   padding: 5px 0;
   position: relative; }
@@ -1862,7 +1862,7 @@ header .form-inline {
   color: #666;
   background: rgba(0, 0, 0, 0.7);
   border: none;
-  color: #fff !important; }
+  }
 
 .morris-hover-point {
   color: rgba(255, 255, 255, 0.8) !important; }
@@ -2065,7 +2065,7 @@ footer.site-footer {
   padding: 0 1.875em; }
   footer.site-footer .footer-inner {
     color: #78909c;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 1.5;
     padding: 2.45em 1.125em; }

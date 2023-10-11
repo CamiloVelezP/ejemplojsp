@@ -5,7 +5,7 @@ jQuery(document).ready(function($) {
 	"use strict";
 
 	[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {
-		new SelectFx(el);
+		let a = new SelectFx(el);
 	});
 
 	jQuery('.selectpicker').selectpicker;

@@ -232,7 +232,7 @@ div.cs-select:focus {
 
 .cs-select > span::after {
 	content: "\f107";
-	font-family: 'Fontawesome';
+	font-family: 'Fontawesome', sans-serif;
 	right: 1em;
 }
 
