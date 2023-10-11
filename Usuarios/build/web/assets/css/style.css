@@ -270,7 +270,7 @@ Googel Fonts  */
       content: "\f142";
       top: 24px;
       position: absolute;
-      font: normal normal normal 14px/1 FontAwesome;
+      font: normal normal normal 14px/1 FontAwesome,sans-serif;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       z-index: 99;
@@ -327,7 +327,7 @@ Googel Fonts  */
       z-index: 1; }
     .tdl-holder input[type="checkbox"]:checked + i::after {
       content: "\e64c";
-      font-family: 'themify';
+      font-family: 'themify',sans-serif;
       display: block;
       color: rgba(153, 171, 180, 0.5);
       left: 0;
@@ -598,7 +598,7 @@ aside.left-panel {
     color: #41434d;
     clear: both;
     display: block;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 50px;
@@ -712,7 +712,7 @@ aside.left-panel {
   background: #a9d86e;
   border-radius: 50%;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', sans-serif;
   font-size: 9px;
   font-weight: 700;
   float: right;

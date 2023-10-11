@@ -26,7 +26,7 @@ div.cs-skin-elastic {
 }
 
 .cs-skin-elastic > span::after {
-	font-family: 'icomoon';
+	font-family: 'icomoon', sans-serif;
 	content: '\e005';
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
